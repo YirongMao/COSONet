@@ -12,6 +12,6 @@ TAR = [0.6832107  0.81946075 0.85863197 0.93930644 0.9631115 ] @FAR[0.001, 0.005
 
 
 # Train
-To train the COSONet by yourself, you just can run train_webface_resnet34_coso.py.
+To train the COSONet by yourself, you can just run train_webface_resnet34_coso.py.
 
 
