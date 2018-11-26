@@ -4,13 +4,13 @@ This paper has been accepted as ACCV 2018 Oral [[paper]](http://vipl.ict.ac.cn/u
 
 ## Requirements
 
-PyTorch 0.4.1. 
+PyTorch 0.4.1
 
 Python packages: pickle, matplotlib, h5py
 
 ## Datasets
 
-The training and testing data, trained model are released. You can download from [[BaiduYun]](https://pan.baidu.com/s/1a1VXZ6sBEibLMp88cU8tnQ).
+The training dataset Webface and testing dataset IJB-A is released, where the faces are detected and cropped without alignment. Our trained models are also available. You can download these data from [[BaiduYun]](https://pan.baidu.com/s/1a1VXZ6sBEibLMp88cU8tnQ).
 
 
 ## Test
