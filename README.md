@@ -1,7 +1,7 @@
 # COSONet: COmpact Second-Order Network for Video Face Recognition 
 
 This paper has been accepted as ACCV 2018 Oral [[paper]](http://vipl.ict.ac.cn/uploadfile/upload/2018111616133187.pdf)
-
+![image](https://github.com/YirongMao/COSONet/blob/master/images/cosonet.jpg)
 ## Requirements
 
 PyTorch 0.4.1
