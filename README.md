@@ -12,6 +12,8 @@ Python packages: pickle, matplotlib, h5py
 
 The training dataset WebFace and testing dataset IJB-A are released, where the faces are detected and cropped without alignment. Our trained models are also available. You can download these data from [[BaiduYun]](https://pan.baidu.com/s/1a1VXZ6sBEibLMp88cU8tnQ).
 
+The overlapped subjects of WebFace and IJB-A datasets are removed while training.
+
 
 ## Test
 After unzipping the data into ./data, run test_ijba.py, and you will get the result on IJB-A of our COSONet (corresponding to the ResNet_34_COSO in Table 2)
