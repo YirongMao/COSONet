@@ -30,4 +30,4 @@ To train the COSONet by yourself, you can just run train_webface_resnet34_coso.p
 
 ## Contact
 
-If you have any question, be free to contact me. My email is yirong.mao[@]vipl.ict.ac.cn
+If you have any question, be free to contact me. My email is yirong.maoATvipl.ict.ac.cn
