@@ -41,7 +41,7 @@ parser.add_argument('--train_filelist', type=str, default='./data/WebFace/train_
                     help='training image file list')
 parser.add_argument('--img_root_dir', type=str, default='./data/WebFace/cropped_extend',
                     help='training image root directory')
-parser.add_argument('--pre_trained_model', type=str, default='./data/WebFace/model/resnet34/step_118860.model',
+parser.add_argument('--pre_trained_model', type=str, default='./data/WebFace/model/resnet_34/step_118860.model',
                     help='path of pre-trained model')
 parsed = parser.parse_args()
 
